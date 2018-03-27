@@ -1,2 +1,0 @@
-# Laborator6
-SOLID
